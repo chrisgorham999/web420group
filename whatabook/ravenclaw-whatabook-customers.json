@@ -5,20 +5,16 @@
     "customerId": "1234",
     "wishList": [
       {
-        "books": [
-          {
-            "title": "Good Book",
-            "genre": "Fiction",
-            "author": "Joe",
-            "bookId": "5556"
-          },
-          {
-            "title": "Not a Good Book",
-            "genre": "Fiction",
-            "author": "Stacy",
-            "bookId": "5657"
-          }
-        ]
+        "title": "Good Book",
+        "genre": "Fiction",
+        "author": "Joe",
+        "bookId": "5556"
+      },
+      {
+        "title": "Not a Good Book",
+        "genre": "Fiction",
+        "author": "Stacy",
+        "bookId": "5657"
       }
     ]
   },
@@ -28,20 +24,16 @@
     "customerId": "4321",
     "wishList": [
       {
-        "books": [
-          {
-            "title": "Good Book",
-            "genre": "Fiction",
-            "author": "Joe",
-            "bookId": "5556"
-          },
-          {
-            "title": "Not a Good Book",
-            "genre": "Fiction",
-            "author": "Stacy",
-            "bookId": "5657"
-          }
-        ]
+        "title": "Good Book",
+        "genre": "Fiction",
+        "author": "Joe",
+        "bookId": "5556"
+      },
+      {
+        "title": "Not a Good Book",
+        "genre": "Fiction",
+        "author": "Stacy",
+        "bookId": "5657"
       }
     ]
   }
