@@ -162,4 +162,4 @@ cait = {
 // inserting our documents to the customers collection
 db.customers.insertOne(shane);
 db.customers.insertOne(chris);
-db.customer.insertOne(cait);
+db.customers.insertOne(cait);
