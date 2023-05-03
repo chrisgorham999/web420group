@@ -1,0 +1,48 @@
+[
+  {
+    "firstName": "First",
+    "lastName": "Last",
+    "customerId": "1234",
+    "wishList": [
+      {
+        "books": [
+          {
+            "title": "Good Book",
+            "genre": "Fiction",
+            "author": "Joe",
+            "bookId": "5556"
+          },
+          {
+            "title": "Not a Good Book",
+            "genre": "Fiction",
+            "author": "Stacy",
+            "bookId": "5657"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "firstName": "Another",
+    "lastName": "One",
+    "customerId": "4321",
+    "wishList": [
+      {
+        "books": [
+          {
+            "title": "Good Book",
+            "genre": "Fiction",
+            "author": "Joe",
+            "bookId": "5556"
+          },
+          {
+            "title": "Not a Good Book",
+            "genre": "Fiction",
+            "author": "Stacy",
+            "bookId": "5657"
+          }
+        ]
+      }
+    ]
+  }
+]
