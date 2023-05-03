@@ -13,6 +13,10 @@
 =================================================================================================================
 */
 
+// delete the books and customers collections
+db.books.drop();
+db.customers.drop();
+
 // create the books collection
 db.createCollection("books", {
   validator: {
