@@ -40,7 +40,7 @@ db.customers.updateOne(
         }
     }})
 
-// Delete book to a customer wish list
+// Delete book from a customer wish list
 db.customers.updateOne(
     { _id: ObjectId('6452f803d4ec5d7b02c6553d')},
     { $pull: { wishList: 
