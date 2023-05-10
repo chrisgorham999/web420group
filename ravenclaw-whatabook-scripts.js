@@ -1,11 +1,11 @@
 /*
 ==============================================================================
-; Title: week8scripts.js
+; Title: ravenclaw-whatabook-scripts.js
 ; Author: House RavenClaw
 ; Modified by: Chris Gorham, Caitlynne Johnson, Shane Hingtgen
 ; Bellevue University
 ; Date: 05/03/2023
-; Description: Group project for What a Book week 2
+; Description: Group project for WhatABook
 ; Work Cited: 
     Coding Guidelines
     Web-420 Assign_8
