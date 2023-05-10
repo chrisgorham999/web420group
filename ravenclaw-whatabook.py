@@ -1,13 +1,14 @@
 # =================================================================================================================
-# ; Title: Assignment 8.2 - WhatABook, Part 2
+# ; Title: WhatABook Console Application
 # ; Author: RavenClaw
 # ; Modified By: Chris Gorham, Caitlynne Johnson, Shane Hingtgen
 # ; Bellevue University
 # ; Date: 05/04/2023
-# ; Description: Web 420 group project for what a book
+# ; Description: Web 420 Group Project Console Application
 # ; Work Cited:
 #   Web 420 assignment 8
 #   Web 420 what a book assignment document
+#   Web 420 assignment 9
 # =================================================================================================================
 # import mongoclient
 from pymongo import MongoClient
