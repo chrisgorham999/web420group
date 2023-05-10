@@ -126,19 +126,19 @@ post = db.books.insert_one(postoffice).inserted_id
 
 # adding our new customers documents
 shane = db.customers.insert_one(shane).inserted_id
-print(shane)
 chris = db.customers.insert_one(chris).inserted_id
-print(chris)
 cait = db.customers.insert_one(cait).inserted_id
-print(cait)
 
 
 # display a list of books
+print (" ")
 print("Displaying a list of books:")
 for book in db.books.find({}):
+    print (" ")
     print(book)
 
 # display a list of books by genre
+print (" a")
 print("Select which Genre:")
 choice = input(
 """
@@ -164,7 +164,7 @@ elif choice =="c":
 # display wishlist based on customerId input
 choice = input(
 """
-Input customerId: 
+Input customerId to display wishlist: 
 
 """)
 # if statement finds customerId then it will post the wishlist, or if not found it will display a message of invalid customerId
